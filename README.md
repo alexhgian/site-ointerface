@@ -10,3 +10,9 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+Credits to creator of original template:
+**David Miller**, Managing Parter at Iron Summit Media Strategies.
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
